@@ -1,0 +1,22 @@
+KOFFIE !
+
+Bedankt voor jullie komst. Ik zal dit project leiden met de steun van mijn projectlid Quinten Faas. Danny zal mijn coach zijn en de heer Houtekamer is de opdrachtgever. Dit gesprek is gepland om een beter beeld te krijgen van uw wensen en behoeftes. Daarom willen wij u een paar vragen stellen, mogelijkheden aanbieden en laten zien. Na dit gesprek zal ik aan een leerofferte beginnen zodat de wensen en behoefte zwart op wit staan.
+
+Verder heb ik 2 filmpjes met mogelijkheden hoe het geimplementeert kan worden
+https://www.youtube.com/watch?v=NHkju5ncC4A
+
+https://www.youtube.com/watch?v=THLZApuUJKM
+
+1) Wat is uw wens?
+2) Moeten de LED lichtjes uit kunnen gaan door middel van als je er niet meer op de trap staat?
+3) Waarvoor wilt u de LED-strips gebruiken?
+4) Wat voor functionaliteiten moeten de LED lichtjes hebben? > kleur etc. wit licht
+5) Wat is het uiteindelijke doel van de testomgeving in het SSC eventueel?
+6) Als je op de 4e trede staat zouden dan de lichtjes van trede 3 en 5 aan moeten gaan?
+7) Wanneer wilt u resultaat zien?
+8) binnen welk tijdsbestek moet de testomgeving opgeleverd worden?
+9) Hoe vaak wilt u op de hoogte gesteld worden in de loop van dit project
+10) Heeft u zelf nog vragen of opmerkingen over dit project?
+11) Hoever mogen wij afwijken van de uiteindelijke uitkomst?
+
+
