@@ -1,0 +1,3 @@
+172.16.12.124 Smart UPS 3000	
+172.16.12.125 Serverkast 1
+172.16.12.126 Serverkast 2
